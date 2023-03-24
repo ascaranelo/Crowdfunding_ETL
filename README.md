@@ -34,7 +34,7 @@ Screentshot of table imported
 Screenshot of all the tables running successfully in resources
 
   
-Credits:
+<h1>Credits:<h1>
 This project was made by the jointed efforts of a team of collaborators listed below:
 Gurpreet Dhameja  - https://linkedin.com/in/gurpreet-dhameja-32335058
 Anabel Scaranelo - https://linkedin.com/in/anabel-scaranelo-md-phd-fsbi-6b3598144
